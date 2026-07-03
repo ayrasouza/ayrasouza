@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrasouza&label=Profile%20views&color=0e75b6&style=flat" alt="ayrasouza" /> </p>
 
-- Atualmente estou trabalhando em dois projetos: **FocusU (Sistema de organização e interação acadêmica) | Projeto de Análise de Dados (Análise da Demanda por Assistência Estudantil na UFPB)**
+- Atualmente estou trabalhando em dois projetos de disciplina: **FocusU (Sistema de organização e interação acadêmica) | Projeto de Análise de Dados (Análise da Demanda por Assistência Estudantil na UFPB)**
 
 - Atualmente estou aprendendo/aprofundando meus conhecimentos em: **Power BI, SQL, Git/GitHub e conhecimentos estatísticos**
 
@@ -11,7 +11,7 @@
 
 - Contato: **frsayra@gmail.com**
 
-- +: **O meu primeiro contato real com a pesquisa foi no ensino médio. Embora o tema do meu TCC na época fosse completamente diferente de dados, foi ali que me identifiquei pelo processo de investigar, estruturar ideias e buscar respostas.**
+- +: **O meu primeiro contato real com a pesquisa foi no ensino médio integrado no IFPB. E, embora o tema do meu TCC na época fosse completamente diferente de dados, foi ali que me identifiquei pelo processo de investigar, estruturar ideias e buscar respostas.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
