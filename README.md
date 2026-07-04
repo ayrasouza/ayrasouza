@@ -37,7 +37,7 @@ Sou uma entusiasta da inteligência de dados aplicada à resolução de problema
 
 ##  Áreas de Interesse & Aprendizado
 
-* **Estudos Atuais:** Aprofundando conhecimentos em **Power BI, SQL, Git/GitHub e modelagem estatística**.
+* **Estudos Atuais:** Focados em **Power BI, SQL, Git/GitHub e aprofundamento em modelagem estatística**.
 * **Foco de Carreira:** Análise de Negócios (*Business Analytics*, Marketing), Ciência de Dados Aplicada e Pesquisa Acadêmica.
 
 ---
