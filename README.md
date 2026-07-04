@@ -48,16 +48,10 @@ O meu primeiro contato real com a pesquisa foi no ensino médio integrado no **I
 
 ---
 
-## Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayrasouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrasouza&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
-
-## Vamos nos conectar?
+## Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayra-souza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frsayra@gmail.com)
+
+
