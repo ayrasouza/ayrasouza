@@ -43,7 +43,7 @@ Sou uma entusiasta da inteligência de dados aplicada à resolução de problema
 
 ---
 
-## 📚 Sobre mim & Trajetória
+##  Sobre mim & Trajetória
 
 O meu primeiro contato real com a pesquisa foi no ensino médio integrado no **IFPB**. E, embora o tema do meu TCC na época fosse completamente diferente de dados, foi ali que me identifiquei pelo processo de investigar, estruturar ideias e buscar respostas para desafios reais. Hoje, aplico essa mesma paixão investigativa no universo da Ciência de Dados para Negócios.
 
