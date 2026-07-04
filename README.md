@@ -28,7 +28,7 @@ Sou uma entusiasta da inteligência de dados aplicada à resolução de problema
 * **O que faz:** Desenvolvido em Python focado em otimizar e estruturar a rotina estudantil através de conceitos práticos de programação.
 * **Tecnologias:** `Python (POO)`
 
-###  Análise da Demanda por Assistência Estudantil na UFPB
+###  Análise do perfil socioeconômico e da demanda por assistência estudantil: um estudo baseado no Campus I da UFPB
 *Projeto de análise exploratória voltado para o impacto social no ambiente universitário.*
 * **O que faz:** Manipulação, limpeza e cruzamento de dados para extrair padrões socioeconômicos e demandas latentes dos estudantes do Campus I.
 * **Tecnologias:** `Python` | `Análise de Dados` | `Power BI` | `SQL`
